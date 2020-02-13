@@ -1,4 +1,3 @@
-# C#-Final
 <h1> C# Final Task</h1>
 <p>
 Bir Fitness zali üçün Desktop application yazmalisiniz. Xidmətlər olacaq. Məsələn, trenajor zali, Sauna, Hovuz, Masaj və s. Xidmətlərin qiyməti və müddəti olacaq, məsələn, Hovuz 1 saati 5 manat. Müddət limitsiz də ola bilər.
@@ -13,3 +12,5 @@ Yeni müstəri gəldikdə müstərinin ödədiyi məbləg gəlirlər cədvəlin�
 
 Admin istənilən vaxtda daxil olaraq gəlirlər və xərclər cədvəlini görə biləcək və müəyyən ayda gəlir və xərc fərqini görərək Xalis gəlirlərə baxa biləcək. Bundan basqa, Admin satislari istənilən səkildə filter edib axtara bilməlidir.
 </p>
+<h3>Ugurlar Her Birinize</h2>
+<h3>Deadline : <b>2/21/2020</b></h2>
